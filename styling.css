@@ -9,4 +9,21 @@
 
 body {
     background-color: #f4e1d2;
+    /* width: 1440px; */
 }
+
+img {
+    width: 384px;
+}
+
+.construct {
+    display: flexbox;
+    background-color: white;
+    text-align: center;
+    padding: 25px 30px 25px;
+    width: 384px;
+    margin: 10% auto;
+    border-radius: 5%;
+}
+
+@media (max-width: 375px) {}
