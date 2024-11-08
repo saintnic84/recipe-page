@@ -178,7 +178,14 @@ ul li::marker {
 }
 
 @media screen and (max-width: 500px) {
-    .construct {
+
+    .construct,
+    .egg,
+    .pink,
+    .ingredients,
+    .instruct,
+    .nutri,
+    .tubby {
         width: 20rem;
         padding: 0;
         justify-content: center;
