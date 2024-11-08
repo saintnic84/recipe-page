@@ -195,4 +195,8 @@ ul li::marker {
         flex-direction: column;
         border-radius: 0;
     }
+
+    ul {
+        margin-left: 1.5rem;
+    }
 }
