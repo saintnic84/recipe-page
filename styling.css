@@ -177,7 +177,7 @@ ul li::marker {
     color: hsl(332, 51%, 32%);
 }
 
-@media screen and (max-width: 375px) {
+@media only screen and (max-width: 375px) {
 
     .construct,
     .egg,
