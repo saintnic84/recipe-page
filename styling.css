@@ -177,7 +177,7 @@ ul li::marker {
     color: hsl(332, 51%, 32%);
 }
 
-/* @media screen and (max-width: 600px) {
+@media screen and (max-width: 320px) {
 
     .construct,
     .egg,
@@ -199,4 +199,4 @@ ul li::marker {
     ol {
         margin-left: 1.5rem;
     }
-} */
+}
